@@ -1,0 +1,12 @@
+
+annee = input("quelle est ton annee de naissanse")
+print("ah ok")
+print("et ta mere elle est nee an quelle annee")
+annee_mere = input()
+print("dacord")
+print("et ton pere")
+annee_pere = input()
+print("merci j,arete")
+print("et quelle est ton plas preferer")
+plas = input()
+print("ah")
