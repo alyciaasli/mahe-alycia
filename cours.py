@@ -1,12 +1,11 @@
+print("quelle et le numero de votre carte bleu fosse")
+numero_carte = input()
 
-annee = input("quelle est ton annee de naissanse")
-print("ah ok")
-print("et ta mere elle est nee an quelle annee")
-annee_mere = input()
-print("dacord")
-print("et ton pere")
-annee_pere = input()
-print("merci j,arete")
-print("et quelle est ton plas preferer")
-plas = input()
-print("ah")
+if numero_carte == "1234 5678 9101 1121":
+    print("carte accepter")
+    
+    numero_carte == "0000 0000 0000 0000"   
+    print("carte refuser")
+else:
+    print("carte refuser")
+    print("fin")
