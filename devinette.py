@@ -23,6 +23,9 @@ cacher = "elephant"
 
 if reponse == cacher:
     print("corecte")
+c = input("reponder a c'ette question pour avoir le pris ")
+a = input("quelle pris voulaiz vous gagner ? ")
+if c == "elephant d'or":
+        print("tenais orvoire!")
 else:
     print("faux")
-    print("fin")
